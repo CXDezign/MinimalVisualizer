@@ -22,7 +22,7 @@ In order to use the MinimalVisualizer, you must complete the following steps:
 
 ## Customisation
 Customisation of the visualizer is supported. Right click on the skin and select the **MinimalVisualizer - Edit** option.
-Customisation variables are stored in the **MinimalVisualizer\@Resources\Variables.inc** file.
+Customisation variables are stored in the **MinimalVisualizer\ @Resources\Variables.inc** file.
 
 ### Customisation Warning
 Any customisation beyond this file may potentially break the visualizer, edit at your own risk!
