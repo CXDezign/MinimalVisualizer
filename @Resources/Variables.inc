@@ -27,25 +27,29 @@
 			; Hint: Higher values respond to quieter sounds.
 			Sensitivity=16
 
-; Colours
-	; Accepted colour formats:
-		; HEXA (RRGGBBAA):					ffffffff
-		; HEX (RRGGBB):						ffffff
-		; 00 to FF
+; Line Customisation
 
-		; RGBA (RRR,GGG,BBB,AAA):			255,255,255,255
-		; RGB (RRR,GGG,BBB):				255,255,255
-		; 0 to 255
+	; Width
+		lineWidth=2
+	; Colour
+		; Accepted colour formats:
+			; HEX - 00 to FF
+			; HEXA (RRGGBBAA):					ffffffff
+			; HEX (RRGGBB):						ffffff
 
-		; All above examples produce White.
-	; Visualizer Top Gradient Colour
-		colourTop=235,5,93,255
-	; Visualizer Bottom Gradient Colour
-		colourBottom=255,255,255,50
-	; Visualizer Top Gradient Position
-		; Accepted values: 0.00 - 1.00
-		; Hint: To have a solid colour, set the value to 0.00
-		colourGradient=1.00
+			; RGB - 0 to 255
+			; RGBA (RRR,GGG,BBB,AAA):			255,255,255,255
+			; RGB (RRR,GGG,BBB):				255,255,255
+
+			; All above examples produce White.
+		; Visualizer Top Gradient Colour
+			colourTop=235,5,93,255
+		; Visualizer Bottom Gradient Colour
+			colourBottom=255,255,255,50
+		; Visualizer Top Gradient Position
+			; Accepted values: 0.00 - 1.00
+			; Hint: To have a solid colour, set the value to 0.00
+			colourGradient=1.00
 
 ; Sizes
 	; Warning: If you update any values under this section, please make sure to use the "MinimalVisualizer - Refresh" option in the Skin's context menu
