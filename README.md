@@ -10,7 +10,8 @@ MinimalVisualizer was based on the [soundwave](https://github.com/hpgbproduction
 #### Features
 * Minimal, modern, and responsive design.
 * Resizeable & customizable.
-* Solid & Gradient line wave colour support.
+* Line colour customisation (Solid or Gradient).
+* Line width customisation.
 * User friendly configuration.
 * Automatic screen centering.
 
