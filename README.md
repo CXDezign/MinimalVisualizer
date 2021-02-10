@@ -33,7 +33,7 @@ Any customisation beyond this file may potentially break the visualizer, edit at
 <img src="https://i.imgur.com/xnNwTq1.png" />
 
 ## To Do
-* Add a "Line Width" variable.
+* -
 
 ## Versioning
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/xanxTV/MDC-Panel/tags). 
