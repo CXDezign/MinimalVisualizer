@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img src="https://i.imgur.com/2fXQdZT.png">
+  <img src="https://i.imgur.com/CFpn00i.png">
 </p>
 
 # MinimalVisualizer
