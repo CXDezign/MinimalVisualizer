@@ -4,8 +4,8 @@
 </p>
 
 # MinimalVisualizer
-MinimalVisualizer is made up of smoothly connected Bezier curves to produce a responsive line soundwave visualizer for Rainmeter.
-MinimalVisualizer was based on the [soundwave](https://github.com/hpgbproductions/soundwave) Rainmeter visualizer and redistributed as a standalone rebranded version.
+MinimalVisualizer is a Rainmeter plugin. Made up of smoothly connected Bezier curves to produce a responsive line soundwave visualizer.
+MinimalVisualizer was initially based on the [soundwave](https://github.com/hpgbproductions/soundwave) Rainmeter visualizer and redistributed as a standalone rebranded version.
 
 #### Features
 * Minimal, modern, and responsive design.
