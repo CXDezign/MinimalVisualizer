@@ -31,12 +31,6 @@ Any customisation beyond this file may potentially break the visualizer, edit at
 ### Visualizer Position
 * If you would like to reposition your visualizer to a different location, use the X,Y coordinates through Rainmeter to do so as editing the X,Y coordinates through the code may produce unwanted results.
 
-## To Do
-* Nothing!
-
-## Versioning
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/CXDezign/MinimalVisualizer/tags). 
-
 ## Credits
 * [CXDezign](https://github.com/CXDezign) - *Creator*
 * [hpgbproductions](https://github.com/hpgbproductions) - *Base Code & [soundwave](https://github.com/hpgbproductions/soundwave) Creator*
