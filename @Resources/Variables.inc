@@ -3,7 +3,7 @@
 	; Visualizer update rate in miliseconds
 		; 1000 = 1 second
 		; Hint: The lower the value, the faster the visualizer updates at the cost of performance.
-		updateRate=5
+		updateRate=2
 
 ; Audio Response
 	; Documentation: https://docs.rainmeter.net/manual/plugins/audiolevel/
@@ -11,21 +11,21 @@
 		; Frequency Resolution
 			; For best results, use the power of 2 (2,4,8,16,32,64,128,256,512,1024,2048,4096)
 			; The higher the value, the better the quality of the visualizer at the cost of performance.
-			FFTSize=2048
+			FFTSize=1024
 		; Attack Response
-			FFTAttack=32
+			FFTAttack=48
 		; Decay Response
-			FFTDecay=128
+			FFTDecay=256
 		; Bands
 			; Do NOT edit this value as the bands are hard-coded into the Skin
 			Bands=20
 		; Minimum Frequency (Hz)
-			FreqMin=20
+			FreqMin=40
 		; Maximum Frequency (Hz)
-			FreqMax=20000
+			FreqMax=15000
 		; Sensitivity
 			; Hint: Higher values respond to quieter sounds.
-			Sensitivity=16
+			Sensitivity=18
 
 ; Line Customisation
 
@@ -43,7 +43,7 @@
 
 			; All above examples produce White.
 		; Visualizer Top Gradient Colour
-			colourTop=235,5,93,255
+			colourTop=e6a2bb80
 		; Visualizer Bottom Gradient Colour
 			colourBottom=255,255,255,50
 		; Visualizer Top Gradient Position
@@ -57,9 +57,9 @@
 	; Visualizer Band Width (x) Size
 		bandWidth=24
 	; Visualizer Band Height (y) Size
-		bandHeight=48
+		bandHeight=64
 	; Visualizer Curve Spacing Size (Curve Start & End)
-		spacingsize=12
+		spacingsize=4
 	; Visualizer Height Spacing
 		; Do NOT edit this value.
 		visualizerHeightSpacing=20
