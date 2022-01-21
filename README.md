@@ -15,7 +15,7 @@ MinimalVisualizer was initially based on the [soundwave](https://github.com/hpgb
 * User friendly configuration.
 * Automatic screen centering.
 
-## Getting Started
+## Releases
 In order to use the MinimalVisualizer, you must complete the following steps:
 * Install [Rainmeter](https://www.rainmeter.net).
 * Download the latest [MinimalVisualizer Release](https://github.com/CXDezign/MinimalVisualizer/releases).
