@@ -35,7 +35,7 @@ Any customisation beyond this file may potentially break the visualizer, edit at
 * Nothing!
 
 ## Versioning
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/xanxTV/MDC-Panel/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/CXDezign/MinimalVisualizer/tags). 
 
 ## Credits
 * [CXDezign](https://github.com/CXDezign) - *Creator*
