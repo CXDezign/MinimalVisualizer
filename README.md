@@ -30,7 +30,6 @@ Any customisation beyond this file may potentially break the visualizer, edit at
 
 ### Visualizer Position
 * If you would like to reposition your visualizer to a different location, use the X,Y coordinates through Rainmeter to do so as editing the X,Y coordinates through the code may produce unwanted results.
-<img src="https://i.imgur.com/xnNwTq1.png" />
 
 ## To Do
 * Nothing!
