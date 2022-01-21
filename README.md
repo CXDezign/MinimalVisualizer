@@ -22,14 +22,14 @@ In order to use the MinimalVisualizer, you must complete the following steps:
 * Open the **MinimalVisualizer.rmskin** skin package through Rainmeter.
 
 ## Customisation
-Customisation of the visualizer is supported. Right click on the skin and select the **MinimalVisualizer - Edit** option.
+Right click on the Rainmeter taskbar icon, go to **CXDezign\MinimalVisualizer** and select the **MinimalVisualizer - Edit** option.
 Customisation variables are stored in the **MinimalVisualizer\ @Resources\Variables.inc** file.
 
 ### Customisation Warning
-Any customisation beyond this file may potentially break the visualizer, edit at your own risk!
+Any customisation beyond the above file may potentially break the visualizer, edit at your own risk!
 
 ### Visualizer Position
-* If you would like to reposition your visualizer to a different location, use the X,Y coordinates through Rainmeter to do so as editing the X,Y coordinates through the code may produce unwanted results.
+* To reposition the Visualizer, use the X,Y Coordinates through Rainmeter.
 
 ## Credits
 * [CXDezign](https://github.com/CXDezign) - *Creator*
