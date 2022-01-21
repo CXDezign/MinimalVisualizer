@@ -9,17 +9,15 @@ MinimalVisualizer was initially based on the [soundwave](https://github.com/hpgb
 
 #### Features
 * Minimal, modern, and responsive design.
-* Resizeable & customizable.
-* Line colour customisation (Solid or Gradient).
-* Line width customisation.
+* Line colour (solid/gradient), width, & length customisation.
 * User friendly configuration.
 * Automatic screen centering.
 
 ## Releases
-In order to use the MinimalVisualizer, you must complete the following steps:
+To use MinimalVisualizer, follow these steps:
 * Install [Rainmeter](https://www.rainmeter.net).
 * Download the latest [MinimalVisualizer Release](https://github.com/CXDezign/MinimalVisualizer/releases).
-* Open the **MinimalVisualizer.rmskin** skin package through Rainmeter.
+* Open the **MinimalVisualizer.rmskin** skin package with Rainmeter.
 
 ## Customisation
 Right click on the Rainmeter taskbar icon, go to **CXDezign\MinimalVisualizer** and select the **MinimalVisualizer - Edit** option.
