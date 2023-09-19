@@ -42,5 +42,5 @@ To use MinimalVisualizer, follow these steps:
 </details>
 
 ## Credits
-* [CXDezign](https://github.com/CXDezign) - *Project Developer & Author*
-* [hpgbproductions](https://github.com/hpgbproductions) - *[soundwave](https://github.com/hpgbproductions/soundwave) Creator*
+* [CXDezign](https://github.com/CXDezign) - *Forked Code Developer*
+* [hpgbproductions](https://github.com/hpgbproductions) - *[soundwave](https://github.com/hpgbproductions/soundwave) Source Code Developer*
